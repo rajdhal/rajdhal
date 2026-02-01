@@ -29,7 +29,7 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,python,js,kubernetes" />
 </p>
 
 
